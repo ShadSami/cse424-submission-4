@@ -1,14 +1,16 @@
-#cse424-submission-4
+cse424-submission-4
 
 
-#first draft : 
+Paper Title :
+Nameplate Recognition Technique
 
-#team members :
+Group Number :
+12
 
-#1.Shihab Sharar
+ 
 
+group members :
 
-#2.Tasfia Jahan
-
-
-#3.Shad Been Sharif Sami
+18201129	Tasfia Jahan
+19241007	Shihab Sharar
+20101492	Shad Been Sharif Sami 
